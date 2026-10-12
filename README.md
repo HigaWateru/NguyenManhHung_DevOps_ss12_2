@@ -126,7 +126,7 @@ git push origin v1.0.0
 ## 5. Hình ảnh minh chứng nộp bài
 
 ### Ảnh 1: Workflow `release.yml` chạy thành công trên tab Actions
-![GitHub Actions Run](image/image.png)
+![GitHub Actions Run](image/image-release.png)
 
 ### Ảnh 2: Docker Image `v1.0.0` xuất hiện trên GitHub Packages
-![GitHub Packages](image/image.png)
+![GitHub Packages](image/image-package.png)
